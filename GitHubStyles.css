@@ -1,0 +1,141 @@
+.titleQuote {
+    color: white;
+    font-style:normal; 
+    font-weight: 700;
+    font-size: 1.5em;
+}
+
+img {
+    text-align: right;
+    border-style: solid;
+    border-color: white;
+    position: absolute;
+    right: 0%;
+    display: inline;
+    margin-right: 1em;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 100px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: royalblue;
+    background-color: whitesmoke;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+
+body {
+    background-image: url('https://media.giphy.com/media/077i6AULCXc0FKTj9s/source.gif?cid=ecf05e47tarek0dhvpn67i4w2nl2nov7y9zutwbwe1hr4lk6&rid=source.gif&ct=g');
+}
+
+h1 {
+    text-align: right;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 5px;
+    border-color: black;
+    color: white;
+}
+
+h3 {
+    font-size: 20px;
+    text-align: center;
+}
+
+.title {
+    font-weight:900;
+    text-align: center;
+    font-size: 50px; 
+    color: whitesmoke;
+}
+
+.titleQuote {
+    text-align: center;
+}
+
+.sectionText {
+    text-align: center;
+}
+
+a {
+    color: red;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+.accordion-item {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: whitesmoke;
+}
+
+.accordion-body {
+    text-align: left;
+}
+
+.round {
+    width: 200px;
+    border-radius: 100%;
+}
+
+figcaption {
+    color: white;
+    text-align: right;
+    font-size: 0.5em;
+    margin-right: 1.5em;
+}
+
+.githublink {
+    color: olivedrab;
+    font-weight: 800;
+}
+/*repoindex styles*/
+
+.repoTitle {
+    text-align: center;
+}
+
+.firstColumnLeft {
+    border-style: none;
+    text-align: left;
+    color: white;
+    font-weight: 800;
+    background-color: transparent;
+    font-size: larger;
+}
+
+.firstColumnRight, .secondColumnLeft, .secondColumnRight {
+    font-weight: 800;
+}
+
+.firstColumnRight {
+    font-weight: 800;
+}
+
+button {
+    background-color:rgb(186, 222, 245);
+}
+
+.myrepos {
+    color:olivedrab;
+    font-weight: 800;
+}
+
+nav {
+    font-weight: 800;
+}
+
+.workLinks {
+    color: olivedrab;
+    font-weight: 800;
+}
